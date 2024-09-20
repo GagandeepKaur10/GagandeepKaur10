@@ -6,8 +6,20 @@ Welcome to my GitHub! I'm Gagan, a dedicated Software Engineer with nearly 4 yea
 
 ## 🚀 About Me<br>
 📚 Master’s in Computer Science @ Purdue University<br>
-💼 Data Scientist @ Purdue's Lab of Data Science<br>
-👨‍💻 Software Engineer @ Date Palm Media LLC<br>
-🌐 Tech Enthusiast with a knack for building impactful solutions<br>
+💼 Graduate Instructor for CS 30600 @ Purdue University<br>
+👨‍💻 Software Engineer @ Accenture<br>
+🌐 Tech Enthusiast with a knack for building impactful solutions<be>
 
-[![Rajvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajvir01)](https://github.com/anuraghazra/github-readme-stats)
+🛠 Skills
+Languages: C++, Java, JavaScript, SQL, C#, Python,<br>
+Frameworks: Angular, MySQL, JUnit, Node.js<br>
+Tools: Git, Jira, Visual Studio, Jenkins, Azure, UFT, Postman<br>
+Automation Tools: Selenium, Postman, Cucumber, TestNG, Cypress<br>
+.. and follow my LinkedIn for more information: (https://www.linkedin.com/in/gagandeepkaur2008/)
+
+## 📈 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanbajpayee0777&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+📫 Get in Touch
+Email: gagankaur1808@gmail.com
