@@ -1,9 +1,6 @@
 Hi 👋 My name is Gagandeep Kaur 
 ==============================
 
-Software Engineer
---------------------
-
 Welcome to my Github! I'm Gagan, a dedicated Software Engineer with nearly 4 years of professional experience in software development and automation testing. Currently, I am doing Master's in Computers Science from Purdue University. My passion lies in creating impactful solutions and exploring innovative technologies. 
 
 ## Technologies
