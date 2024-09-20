@@ -1,10 +1,10 @@
-Hi 👋 My name is Rajvir Singh 
+Hi 👋 My name is Gagandeep Kaur 
 ==============================
 
-Full Stack Developer
+Software Engineer
 --------------------
 
-I have always been fascinated by coding. This fascination has led me to gain varied experience in some core competent programming areas like Java, front-end frameworks - angular, firebase. I have further enhanced my skills by doing some real-time projects majorly involving the use of all the web frameworks.
+Welcome to my Github! I'm Gagan, a dedicated Software Engineer with nearly 4 years of professional experience in software development and automation testing. Currently, I am doing Master's in Computers Science from Purdue University. My passion lies in creating impactful solutions and exploring innovative technologies. 
 
 ## Technologies
 ```/* Languages */```
